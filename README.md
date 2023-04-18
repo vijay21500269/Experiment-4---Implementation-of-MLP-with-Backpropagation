@@ -160,6 +160,15 @@ print(classification_report(y_test,predictions))
 ~~~
 
 ## OUTPUT 
+![img1](https://github.com/ragulmani936/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/img1.png)
+![img2](https://github.com/ragulmani936/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/img2.png)
+
+![img3](https://github.com/ragulmani936/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/img3.png)
+
+![img4](https://github.com/ragulmani936/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/img4.png)
+![img5](https://github.com/ragulmani936/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/img5.png)
+
+
 
 
 
